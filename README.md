@@ -14,7 +14,7 @@ So this is a series of OpenCv modules I worked upon.
 
 
 
-*Mediapipe library was used along with some other computer vision libraries. The code is provided, and overall these modules has been used in subsequent projects. 
+Mediapipe library was used along with some other computer vision libraries. The code is provided, and overall these modules has been used in subsequent projects. 
 The output is being shown below.
 
 
